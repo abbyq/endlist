@@ -1,0 +1,1 @@
+web: gunicorn endlist:app --log-file=-
